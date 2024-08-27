@@ -27,8 +27,4 @@ With 6 years background experience in motion design and a keen eye for aesthetic
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ashferoz"><img src="https://github-readme-stats.vercel.app/api?username=ashferoz&show_icons=true&hide=stars,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="ashferoz's GitHub stats" /></a>
-
 <a href="https://github.com/ashferoz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashferoz&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
