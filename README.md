@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Motion Designer
 -----------------------------------
 
-With 6 years background experience in motion design and a keen eye for aesthetics, I am passionate in creating projects that blend beauty with purpose while continuously learning new upcoming technologies. I'm currently working on a bakery website to increase business prospects.
+With 6 years background experience in motion design and a keen eye for aesthetics, I am passionate in creating projects that blend beauty with purpose while continuously learning new upcoming technologies. I'm currently working on a website for a local dessert business to help boost their prospects.
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [ashferoz.netlify.app](http://ashferoz.netlify.app/main)
